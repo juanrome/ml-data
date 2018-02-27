@@ -1,2 +1,2 @@
-# ml-datastat
-Multilabel Datasets Properties
+# ml-data
+Multilabel Data
