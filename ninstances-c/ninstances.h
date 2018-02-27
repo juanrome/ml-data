@@ -1,0 +1,2 @@
+int ninstances(char *filename);
+
