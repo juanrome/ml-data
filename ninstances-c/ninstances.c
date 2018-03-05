@@ -15,5 +15,5 @@ int ninstances(char *filename)
   printf("data_file: %s, instances: %d, features: %d, labels: %d \n",
    	  data_filename, data_size, data_features, data_labels);
   printf("\n");
-  fclose(data_filename);
+  fclose(data_file);
 }
