@@ -15,4 +15,4 @@ Cada alumno/desarrollador debe:
 
 **NOTA:**
 - Antes de comenzar leer la sección _Forked Public Project_ del libro [Git Pro](https://git-scm.com/book/en/v2/Distributed-Git-Contributing-to-a-Project)
-- Las aportaciones sern en el sentido de obtener cualquier dato o informacin de los datasets. En el directorio "papers" hay un PDF de un Technical Report sobre Multi-label learning para que sirva de ayuda para obtener esta informacin, en concreto la seccin 8 de dicho paper: "Dataset Properties".
+- Las aportaciones serán en el sentido de obtener cualquier dato o información de los datasets. En el directorio "papers" hay un PDF de un Technical Report sobre Multi-label learning para que sirva de ayuda para obtener esta información, en concreto la sección 8 de dicho paper: "Dataset Properties".
