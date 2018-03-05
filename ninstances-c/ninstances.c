@@ -12,7 +12,8 @@ int ninstances(char *filename)
   fscanf(data_file,"%c %d \n", &c, &data_size);
   fscanf(data_file,"%c %d \n", &c, &data_features);
   fscanf(data_file,"%c %d \n", &c, &data_labels);
-  printf("data_file: %s, instances: %d, features: %d, labels: %d \n", 
-   	  data_filename, data_size, data_features, data_labels); 
+  printf("data_file: %s, instances: %d, features: %d, labels: %d \n",
+   	  data_filename, data_size, data_features, data_labels);
   printf("\n");
+  fclose(data_filename);
 }
