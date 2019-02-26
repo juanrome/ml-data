@@ -1,16 +1,18 @@
 # ml-data a proyect for processing Multi-Label Data
 Cada alumno/desarrollador debe:
-1. Cada desarrollador se creará su pripio fork del proyecto original en su cuenta de GitHub.
+1. Crear su pripio fork del proyecto original en su cuenta de GitHub.
 2. Crear una rama con su contribución (_git checkout -b featureA_ #siendo featureA el nombre de la rama nueva)
   El desarrollador hará su trabajo y hará los commits que considere en ciclos:  
   
       ... work ...  
+    $ git add ...
     $ git commit  
       ... work ...  
+    $ git add ...
     $ git commit  
-
+    ...
 3. Cada desarrollador hará un push de su trabajo a su propio repositorio clonado.
-4. Las aportaciones irán en un directorio nuevo y serán integradas en el menú de la aplicacin como en los ejemplos.
+4. Las aportaciones irán en un directorio nuevo y serán integradas en el menú de la aplicación como en los ejemplos.
 4. Cada desarrollador notificará al _maintainer_ del proyecto su **pull request**
 
 **NOTA:**
