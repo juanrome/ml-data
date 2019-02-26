@@ -1,3 +1,4 @@
+/*  by Juan A. Romero v1.0 26/02/2019*/
 #include <stdio.h>
 #include <string.h>
 
@@ -15,6 +16,5 @@ int ninstances(char *filename)
   printf("data_file: %s, instances: %d, features: %d, labels: %d \n",
    	  data_filename, data_size, data_features, data_labels);
   printf("\n");
-  printf("\n"); /* juanrome added this line */
   fclose(data_file);
 }
