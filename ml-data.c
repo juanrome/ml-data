@@ -23,8 +23,10 @@ switch(x){
         ninstances("yeast.complete");
         break;
     case 2:
-        printf("Funcionalidad de prueba añadida por juanrome@gmail.com")
+        printf("Funcionalidad de prueba añadida por juanrome@gmail.com");
         break;
+    case 3:
+        printf("NUeva Funcionalidad AAABBBBBBB");
 /* add here more functionality */
     }
 }
