@@ -22,6 +22,9 @@ switch(x){
         printf("Ejecutando la función ninstances() de Juan A. Romero:\n");
         ninstances("yeast.complete");
         break;
+    case 2:
+        printf("Funcionalidad de prueba añadida por juanrome@gmail.com")
+        break;
 /* add here more functionality */
     }
 }
